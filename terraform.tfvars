@@ -1,0 +1,1 @@
+my_name = "my_new_instance"
